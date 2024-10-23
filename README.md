@@ -19,6 +19,10 @@ Este projeto em Java implementa um sistema simples de gerenciamento de departame
   - Associar um curso ao departamento (composição).
   - Métodos para acessar e modificar as informações do departamento.
   - Exibir os cursos e seus alunos associados ao departamento.
+ 
+- Saída esperada
+
+![image](https://github.com/user-attachments/assets/1fc4e237-c95d-4adb-a9c2-a5edd2ce5e2b)
 
 ## Estrutura de Pastas
 
@@ -34,3 +38,4 @@ src/
 │       └── Departamento.java
 │
 └── Main.java
+
